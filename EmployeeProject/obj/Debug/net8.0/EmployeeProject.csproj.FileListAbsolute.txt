@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\EmployeeProject\bin\Debug\net8.0\EmployeeProject.exe
+C:\Users\II Novbe\source\repos\EmployeeProject\bin\Debug\net8.0\EmployeeProject.deps.json
+C:\Users\II Novbe\source\repos\EmployeeProject\bin\Debug\net8.0\EmployeeProject.runtimeconfig.json
+C:\Users\II Novbe\source\repos\EmployeeProject\bin\Debug\net8.0\EmployeeProject.dll
+C:\Users\II Novbe\source\repos\EmployeeProject\bin\Debug\net8.0\EmployeeProject.pdb
+C:\Users\II Novbe\source\repos\EmployeeProject\obj\Debug\net8.0\EmployeeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\EmployeeProject\obj\Debug\net8.0\EmployeeProject.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\EmployeeProject\obj\Debug\net8.0\EmployeeProject.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\EmployeeProject\obj\Debug\net8.0\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\EmployeeProject\obj\Debug\net8.0\EmployeeProject.dll
+C:\Users\II Novbe\source\repos\EmployeeProject\obj\Debug\net8.0\refint\EmployeeProject.dll
+C:\Users\II Novbe\source\repos\EmployeeProject\obj\Debug\net8.0\EmployeeProject.pdb
+C:\Users\II Novbe\source\repos\EmployeeProject\obj\Debug\net8.0\EmployeeProject.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\EmployeeProject\obj\Debug\net8.0\ref\EmployeeProject.dll
